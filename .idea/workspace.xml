@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Client:jar" />
+      <artifact name="Server:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56399f4e-bafa-46dc-ae61-c879a6632851" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/Grad5">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/labGrad5">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/untitled">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/Grad5">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Grad5" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Tag Library Descriptor" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Core/src/validation/GreaterThanZero.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/src/validation/Validator.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Server/src/managers/CollectionManager.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2OHZrj0dqrL7YlLenmgS1Pj2eOL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;jbr-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/study things/programming/lab7/lab6&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.16210938&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.kotlinCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study things\programming\lab6\lab6\lab5\ServerMaven\src\main\java\org\example" />
+      <recent name="D:\study things\programming\lab6\lab6\lab5\Server" />
+      <recent name="D:\study things\programming\lab6\lab6\lab5\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study things\programming\lab6\lab6\lab5\Client\src" />
+      <recent name="D:\study things\programming\lab6\lab6\lab5" />
+      <recent name="D:\study things\programming\lab6\lab6\lab5\Client" />
+      <recent name="D:\study things\programming\lab6\lab6\lab5\lib" />
+      <recent name="D:\study things\programming\lab6\lab6\lab5\Server" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="managers" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="org.example" />
+      <recent name="managers" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+      <command value="mvn compile" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" singleton="false" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="jbr-17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Client" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" singleton="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="jbr-17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="Server" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="client" type="JarApplication">
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Client_jar/Client.jar" />
+      <option name="WORKING_DIRECTORY" value="D:\study things\programming\lab6\lab6\lab5" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Client:jar" />
+        </option>
+        <option name="RunConfigurationTask" enabled="true" run_configuration_name="server" run_configuration_type="JarApplication" />
+      </method>
+    </configuration>
+    <configuration name="server" type="JarApplication">
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Server_jar/Server.jar" />
+      <option name="WORKING_DIRECTORY" value="D:\study things\programming\lab6\lab6\lab5" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="JAR Application.server" />
+      <item itemvalue="JAR Application.client" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56399f4e-bafa-46dc-ae61-c879a6632851" name="Changes" comment="" />
+      <created>1681219670914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681219670914</updated>
+      <workItem from="1681219672176" duration="13415000" />
+      <workItem from="1682112098394" duration="15534000" />
+      <workItem from="1682468158887" duration="3881000" />
+      <workItem from="1682476828856" duration="6000" />
+      <workItem from="1682476855996" duration="32000" />
+      <workItem from="1682476898713" duration="16686000" />
+      <workItem from="1683010564542" duration="2999000" />
+      <workItem from="1683122846292" duration="567000" />
+      <workItem from="1683627934639" duration="1693000" />
+      <workItem from="1683641311397" duration="35159000" />
+      <workItem from="1683979689829" duration="13168000" />
+      <workItem from="1685135108501" duration="21831000" />
+      <workItem from="1685190790193" duration="459000" />
+      <workItem from="1685191284879" duration="1828000" />
+      <workItem from="1685193131197" duration="1809000" />
+      <workItem from="1686288710275" duration="214000" />
+      <workItem from="1686288966270" duration="2917000" />
+      <workItem from="1686308166547" duration="3839000" />
+      <workItem from="1686312021154" duration="2223000" />
+      <workItem from="1686612044771" duration="27971000" />
+      <workItem from="1686666562929" duration="8633000" />
+      <workItem from="1690878019515" duration="112000" />
+      <workItem from="1692263071526" duration="38000" />
+      <workItem from="1692263163235" duration="89000" />
+      <workItem from="1692263453935" duration="53000" />
+      <workItem from="1694781242590" duration="1425000" />
+      <workItem from="1694784715428" duration="905000" />
+      <workItem from="1694831795099" duration="78000" />
+      <workItem from="1694831900286" duration="5657000" />
+      <workItem from="1694837618994" duration="11544000" />
+      <workItem from="1694979172729" duration="50329000" />
+      <workItem from="1695047081527" duration="4536000" />
+      <workItem from="1695397247164" duration="1024000" />
+      <workItem from="1695568823396" duration="12575000" />
+      <workItem from="1695581663369" duration="1017000" />
+      <workItem from="1695582700486" duration="52165000" />
+      <workItem from="1695850535354" duration="723000" />
+      <workItem from="1695855331554" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lab5$Main.ic" NAME="Main Coverage Results" MODIFIED="1686288829596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
